@@ -1,4 +1,4 @@
-package com.example.lance.earthdemo;
+package com.example.lance.earthforandroid;
 
 import org.junit.Test;
 

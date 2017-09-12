@@ -1,4 +1,4 @@
-package com.example.lance.earthdemo;
+package com.example.lance.earthforandroid;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.lance.earthdemo", appContext.getPackageName());
+        assertEquals("com.example.lance.earthforandroid", appContext.getPackageName());
     }
 }
