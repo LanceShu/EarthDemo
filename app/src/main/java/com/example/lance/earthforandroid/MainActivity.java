@@ -5,7 +5,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.LinearLayout;
 
-import com.unity3d.player.UnityPlayer;
 import com.unity3d.player.UnityPlayerActivity;
 
 public class MainActivity extends UnityPlayerActivity {
